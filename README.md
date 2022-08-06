@@ -5,7 +5,7 @@
 - 📫 How to reach me
   - sealabdev@gmail.com
   - https://www.youtube.com/channel/UC4vFw8z3yvFiuP0nFq2Mm0Q
-  - https://www.twitch.tv/codigonaut
+  - https://www.twitch.tv/codigonauta
 
 <!---
 codigonauta/codigonauta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
